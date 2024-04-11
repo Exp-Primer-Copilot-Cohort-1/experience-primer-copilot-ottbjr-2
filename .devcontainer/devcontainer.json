@@ -1,0 +1,10 @@
+{
+    "name": "Python Course Codespace",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
